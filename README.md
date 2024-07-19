@@ -20,4 +20,8 @@ Durante a disciplina de Microcontroladores, sob a orientação do professor Arqu
 
 <p>
   
+
+https://github.com/user-attachments/assets/c57e42dd-8685-45f3-97be-f1c8d976ba1a
+
+
 </p>
